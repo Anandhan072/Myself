@@ -1,0 +1,64 @@
+body{
+    margin:0px;
+    color: #545454;
+    font-family: 'Amiri';
+    font-size: 14px;
+    line-height: 1.42857143;
+    text-align: center;
+}
+/* first Black */
+.div1{
+    position: relative;
+    background-color: aqua;
+    height: 120px;
+    margin: 0px;
+    
+}
+
+.img1{
+    position: absolute;
+    width: 100px;
+    height: 75px;
+    left: 35px;
+    top: 21px;
+}
+
+.p1{
+    position:absolute;
+    right: 193px;
+    top: 28px;
+}
+
+.a1
+    {
+    text-decoration: none;
+    font-size: 20px;
+
+    }
+
+/* second block */
+.div2{
+        position: relative;
+
+}
+.imgc1{
+    width: 200px;
+    height: 125px;
+}
+.imgc2{
+    width: 100px;
+    height: 125px;
+
+}
+.flag1{
+
+
+}
+.flag2{
+
+
+}
+.hw1{
+   font-size: 100px;
+   font-family: 'Grechen Fuemen';
+}

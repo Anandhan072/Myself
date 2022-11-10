@@ -1,0 +1,378 @@
+body{
+    margin:0px 0px 0px 0px;
+    color: #545454;
+    font-family: 'Amiri';
+    font-size: 14px;
+    line-height: 1.42857143;
+    text-align: center;
+}
+    
+/** firt div Black**/
+#div1{
+    background-color:#a3cfdd;
+    height: 110px;
+    width: 100%;
+   
+}
+.img1{
+    width: 100px;
+    height: 75px;
+    float: left;
+    position:absolute;
+    left: 250px;
+    top: 18px;
+
+}
+.p1{
+
+    display: inline;
+    position: absolute;
+    left: 1000px;
+    top: 25px;
+    font-size: 20px;
+    font-family: 'Brawler';
+}
+
+    
+.a1{
+    text-decoration: none;
+}
+
+/** Second div Black  **/
+.h1
+{
+    margin-top: 0px;
+    font-family:'La Belle Aurore';
+    position: absolute;
+    left: 630px;
+    top: 65px;
+}
+.p2{
+    position: absolute;
+    margin-top: 0px;
+    left: 673px;
+    top: 109px;
+    font-family:'La Belle Aurore';
+    font-size: 20px;
+
+}
+#div2{
+    background-color: #a3cfdd;
+    position: relative;
+    height: 600px;
+}
+.img21
+{
+    position: absolute;
+    width: 200px;
+    height: 125px;
+    left: 974px;
+}
+
+.img22{
+    position: absolute;
+    width: 200px;
+    height: 125px;
+    left: 296px;
+    top: 120px;
+
+}
+.img23
+    {
+        position: absolute;
+        left: 435px;
+        bottom: 0px;
+
+    }
+ /** second div Black complete **/
+  /** Thered div Black  **/
+  .h31 {
+    font-size: 2em;
+    color: #45b29a;
+
+  }
+#div3
+    {
+        width: 50%;
+        margin: 85px auto 0px auto;
+        text-align: center;
+    }
+.img3{
+        width: 200px;
+        height: 150px;
+        font-family: sans-serif;
+
+}
+ 
+.p3{
+    width: 70%;
+    margin: auto auto auto auto;
+    font-size: 1.5rem;
+    font-weight: normal;
+    font-weight: 300;
+}
+.hr3 {
+   border-top: dotted 6px rgb(219, 219, 219);
+   border-bottom: none;
+   border-left: none;
+   border-right: none;
+   width: 10%;
+   margin-top: 70px;
+
+ }
+  /** Thered div Black complete  **/
+  /** Fourth div Black  **/
+
+#div4 {
+    width: 60%;
+    height: 279px;
+    text-align: center;
+    margin: auto auto auto auto;
+    position: relative;
+
+
+}
+
+.h4 {
+   
+    text-align: center;
+    margin-top: 50px;
+    color: #1e836c;
+    font-size: 3.8em;
+    font-weight: 400;
+
+}
+.img41{
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+
+.div42{
+    width: 77px;
+    height: 77px;
+    border-radius: 60px;
+    background-color: red;
+    float: left;
+}
+.h45 { 
+    margin-right: 197px;
+    margin-top: 91px;
+    color: #1e836c;
+    font-size: 2em;
+    font-weight: normal;
+
+}
+.p4{ font-size: 1.5em;
+    margin-left: 379px;
+    font-weight: 300;
+    text-align: left;
+
+}
+
+.hr4 {
+    border-top: dotted 4px rgb(219, 219, 219);
+   border-bottom: none;
+   border-left: none;
+   border-right: none;
+   width: 10%;
+   margin-top: 70px;
+   position: absolute;
+   left: 149px;
+}
+
+.h41{
+    width: 77px;
+    height: 77px;
+    border-radius: 60px;
+    margin: 35px auto auto 88px;
+    background-image: url("ps.png");
+    float: left;
+    animation: anand;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(1,0,0,1);
+    
+}
+@keyframes anand {
+
+        33% {
+            background-position-y: 0px;
+            
+        }
+        66% {
+            background-position-y: 77px;
+            
+        }
+        100% {
+            background-position-y: 154px;
+            
+        }
+    
+}
+
+
+  /** Fourth div Black  complete **/
+
+    /** Fivth div Black  **/
+#div5{
+    width: 60%;
+    height: 165px;
+    text-align: center;
+    margin: 100px auto auto auto;
+    position: relative;
+    
+}
+.h5{
+    margin-top: 0px;
+    float: left;
+    color: #1e836c;
+    font-size: 2em;
+    font-weight: normal;
+}
+
+    .img51{
+        width: 150px;
+        height: 150px;
+        float: left;
+        margin-left: 90px;
+    }
+
+    .h51{
+        width: 77px;
+        height: 77px;
+        border-radius: 60px;
+        margin: 35px auto auto 298px ;
+        background-image: url("ps2.png");
+        float: left;
+        animation: anand;
+        animation-duration: 20s;
+        animation-iteration-count: infinite;
+        animation-timing-function: cubic-bezier(1,0,0,1);
+        
+    }
+    @keyframes anand {
+    
+            33% {
+                background-position-y: 0px;
+                
+            }
+            66% {
+                background-position-y: 77px;
+                
+            }
+            100% {
+                background-position-y: 154px;
+                
+            }
+        
+    }
+
+.p5 {
+    font-size: 1.5em;
+    text-align: left;
+    width: 505px;
+    height: 82px;
+    position: absolute;
+    right: 379px;
+    top: 40px;
+
+}
+
+.hr5 {
+    border-top: dotted 4px rgb(219, 219, 219);
+   border-bottom: none;
+   border-left: none;
+   border-right: none;
+   width: 10%;
+   margin-top: 70px;
+   position: absolute;
+   left: 643px;
+}
+
+  /** Fivth div Black Complete  **/
+
+
+  /** Six div Black  **/
+
+#div6 {
+    height: 400px;
+    margin: 65px;
+}
+
+  .hr6 {
+    border-top: dotted 6px rgb(219, 219, 219);
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 5%;
+    left: 643px;
+    margin: 100px auto 30px auto;
+  }
+
+.h6{
+    color: #1e836c;
+    text-align: center;
+    margin-top: 85px;
+    font-size: 3.8em;
+    font-weight: 400;
+}
+
+.h61{
+    font-size: 2em;
+    color: #45b29a;
+    font-weight: normal;
+}
+
+.p6 {
+    width: 600px;
+    height: 60px;
+    margin: auto auto auto auto;
+    font-weight: 300;
+    font-size: 1.5em;
+}
+
+.a6 {
+    
+    background: #45b29a;
+    color: #1b7f69;
+    border-radius: 3px;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-decoration:none;
+    position: relative;
+    top: 50px;
+    padding: 5px 25px 5px 25px;
+}
+ /** Six div Black complete **/
+
+ /** Seven div Black  **/
+
+ #div7{
+        background-color: #c5ded7;
+        height: 150px;
+ }
+
+.a7 { 
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: #45b29a;
+    font-size: 1.5em;
+    padding-right: 76px;
+    padding-top: 40px;
+
+}
+
+.p7 {
+
+    color: #45b29a;
+    margin-top: 35px;
+}
+
+.a71 {
+   
+    color: #45b29a;
+    
+}
